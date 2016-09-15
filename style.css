@@ -2,11 +2,11 @@
     font-family: 'intercity';
     font-style: normal;
     font-weight: normal;
-    src:    url('fonts/intercity.eot?tjeb1e');
-    src:    url('fonts/intercity.eot?tjeb1e#iefix') format('embedded-opentype'),
-            url('fonts/intercity.ttf?tjeb1e') format('truetype'),
-            url('fonts/intercity.woff?tjeb1e') format('woff'),
-            url('fonts/intercity.svg?tjeb1e#intercity') format('svg');
+    src:    url('fonts/intercity.eot?ba086x');
+    src:    url('fonts/intercity.eot?ba086x#iefix') format('embedded-opentype'),
+            url('fonts/intercity.ttf?ba086x') format('truetype'),
+            url('fonts/intercity.woff?ba086x') format('woff'),
+            url('fonts/intercity.svg?ba086x#intercity') format('svg');
 }
 
 .icon {
@@ -191,6 +191,9 @@
 }
 .icon-car:before {
     content: "\e938";
+}
+.icon-flight:before {
+    content: "\e948";
 }
 .icon-visible:before {
     content: "\e939";

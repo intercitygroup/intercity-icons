@@ -1657,6 +1657,35 @@
     {
       "icon": {
         "paths": [
+          "M896 682l-342-106v234l86 64v64l-150-42-148 42v-64l84-64v-234l-340 106v-84l340-214v-234c0-36 28-64 64-64s64 28 64 64v234l342 214v84z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "flight"
+        ],
+        "grid": 24
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 1,
+        "id": 66,
+        "name": "flight",
+        "prevSize": 24,
+        "code": 59720
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 57
+    },
+    {
+      "icon": {
+        "paths": [
           "M512 384c70 0 128 58 128 128s-58 128-128 128-128-58-128-128 58-128 128-128zM512 726c118 0 214-96 214-214s-96-214-214-214-214 96-214 214 96 214 214 214zM512 192c214 0 396 132 470 320-74 188-256 320-470 320s-396-132-470-320c74-188 256-320 470-320z"
         ],
         "attrs": [
@@ -1681,7 +1710,7 @@
       },
       "setIdx": 0,
       "setId": 2,
-      "iconIdx": 57
+      "iconIdx": 58
     },
     {
       "icon": {
@@ -1710,7 +1739,7 @@
       },
       "setIdx": 0,
       "setId": 2,
-      "iconIdx": 58
+      "iconIdx": 59
     },
     {
       "icon": {
@@ -1739,7 +1768,7 @@
       },
       "setIdx": 0,
       "setId": 2,
-      "iconIdx": 59
+      "iconIdx": 60
     },
     {
       "icon": {
@@ -1768,7 +1797,7 @@
       },
       "setIdx": 0,
       "setId": 2,
-      "iconIdx": 60
+      "iconIdx": 61
     },
     {
       "icon": {
@@ -1797,7 +1826,7 @@
       },
       "setIdx": 0,
       "setId": 2,
-      "iconIdx": 61
+      "iconIdx": 62
     },
     {
       "icon": {
@@ -1826,7 +1855,7 @@
       },
       "setIdx": 0,
       "setId": 2,
-      "iconIdx": 62
+      "iconIdx": 63
     },
     {
       "icon": {
@@ -1855,7 +1884,7 @@
       },
       "setIdx": 0,
       "setId": 2,
-      "iconIdx": 63
+      "iconIdx": 64
     },
     {
       "icon": {
@@ -1884,7 +1913,7 @@
       },
       "setIdx": 0,
       "setId": 2,
-      "iconIdx": 64
+      "iconIdx": 65
     },
     {
       "icon": {
@@ -2107,7 +2136,7 @@
       "metadata": {
         "fontFamily": "intercity",
         "majorVersion": 1,
-        "minorVersion": 0
+        "minorVersion": 1
       },
       "metrics": {
         "emSize": 1024,
@@ -2128,7 +2157,10 @@
       "useClassSelector": true,
       "color": 0,
       "bgColor": 16777215,
-      "classSelector": ".icon"
+      "classSelector": ".icon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
     },
     "historySize": 100,
     "showCodes": true,
